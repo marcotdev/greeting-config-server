@@ -1,1 +1,1 @@
-# greeting-config-serverf
+# greeting-config-server
